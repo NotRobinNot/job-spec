@@ -6,7 +6,12 @@ with open("reed_all_jobs.json", "r") as jsonfile:
 
 key = "jobDescription"
 description = job_list[0][key]
-keywords = "SQL"
+keyterm = keywords["BigQuery"]
 
-if keywords.lower() in description.lower():
-    print(f"Found: {keywords}")
+for term in keyterm:
+    if term.lower() in description.lower():
+        print(f"Found: {term}")
+    else:
+        print(f"Not found: {term}")
+
+print(f"---> \n {description}")
