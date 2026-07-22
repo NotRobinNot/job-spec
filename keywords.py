@@ -1,4 +1,5 @@
 keywords = {
+    "Java": ["Java"],
     "SQL": ["SQL"],
     "BigQuery": ["BigQuery", "Big Query"],
     "Looker": ["Looker"],
