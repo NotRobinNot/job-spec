@@ -1,0 +1,18 @@
+keywords = {
+    "SQL": ["SQL"],
+    "BigQuery": ["BigQuery", "Big Query"],
+    "Looker": ["Looker"],
+    "ETL": ["ETL", "extract transform load", "extract, transform, load"],
+    "Data Modelling": ["data modelling", "data modeling"],
+    "Data Warehousing": ["data warehousing", "data warehouse"],
+    "dbt": ["dbt"],
+    "CI/CD": ["CI/CD", "continuous integration", "continuous deployment"],
+    "Snowflake": ["Snowflake"],
+    "Redshift": ["Redshift"],
+    "Databricks": ["Databricks"],
+    "Airflow": ["Airflow", "Apache Airflow"],
+    "Dagster": ["Dagster"],
+    "Prefect": ["Prefect"],
+    "Flyte": ["Flyte"],
+    "Tableau": ["Tableau"],
+}
